@@ -45,7 +45,6 @@
   <ItemGroup>
     <Compile Include="EmailingSystem.cs" />
     <Compile Include="Models\Address.cs" />
-    <Compile Include="Models\Email.cs" />
     <Compile Include="Models\Order.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="OrderService.cs" />

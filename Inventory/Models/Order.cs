@@ -14,7 +14,7 @@ namespace Inventory
         public int Quantity { get; set; }
         public int CreditCardNo { get; set; }
         public string NameOnCard { get; set; }
-        public Email Emailid { get; set;}
+        public string Emailid { get; set;}
         
 
     }
