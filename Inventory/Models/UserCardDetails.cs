@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inventory
 {
-    class UserCardDetails
+   public class UserCardDetails
     {
         public int CardNum { get; set; }
 
